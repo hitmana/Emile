@@ -1,0 +1,36 @@
+.link{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+.button{
+    display: block;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    border: 2px solid #840;
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: green;
+    float: right;
+}
+.button .content{
+    display: block;
+    position: absolute;
+}
+
+
+.button1{
+    display: block;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    border: 2px solid #840;
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: green;
+   
+}
